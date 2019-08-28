@@ -1,2 +1,3 @@
 # secondwebsite
-better animations
+better animations 
+{remove bugs}
